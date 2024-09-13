@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+# I'm Drew, currently a student at Northern Arizona University studying Computer Science!
+
+
 <!--
 **dr3w-mg/dr3w-mg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
