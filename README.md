@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-# I'm Drew, currently a student at Northern Arizona University studying Computer Science!
+### I'm Drew, currently a student at Northern Arizona University studying Computer Science!
 
 
 <!--
